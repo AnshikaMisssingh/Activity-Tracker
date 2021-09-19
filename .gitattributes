@@ -1,3 +1,2 @@
 * linguist-vendored
 *.ion linguist-vendored=false
-*.* linguist-language=Arduino
